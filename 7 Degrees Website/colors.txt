@@ -1,3 +1,0 @@
-nav link highlight blue - #4287f5
-nav link blue - #66acf2
-paragraph link color - #052859
