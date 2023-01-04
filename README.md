@@ -1,2 +1,2 @@
-# benswihart.github.io
+# 7degreesbrassband.com
 7 Degrees Brassband website
